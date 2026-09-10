@@ -4,7 +4,7 @@ This is a small demo repository used to practice the pull request workflow on Gi
 
 ## What this repo does
 
-It doesn't do much — it's just here so you can recieve hands-on practice opening,
+It doesn't do much — it's just here so you can receive hands-on practice opening,
 reviewing, and merging a pull request.
 
 ## Getting started
